@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to Gregor will be documented in this file.
 
+## [1.1.0] - 2020-01-26
+
+- upgrade to Kafka 2.4.1
+- deprecate zookeeper API in favor of kafkaAdminClient
+
 ## [1.0.0] - 2019-02-26
 
 ### Changes
