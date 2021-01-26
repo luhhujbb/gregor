@@ -1,7 +1,7 @@
-(defproject io.weft/gregor "1.0.1-SNAPSHOT"
+(defproject luhhujbb/gregor "1.1.0"
   :min-lein-version "2.0.0"
   :description "Lightweight Clojure bindings for Kafka"
-  :url "https://github.com/ccann/gregor.git"
+  :url "https://github.com/luhhujbb/gregor.git"
   :license {:name "Eclipse Public License"
             :url  "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.10.0"]
